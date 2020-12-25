@@ -82,7 +82,9 @@ def matrix():
         col+=1
         row+=1
         d-=1
-    for i in A:
+    
+    jfdhgghdfg
+    hdfgfdfgfgf
      print(i)
 #matrix()
 def xu_ly_file():
