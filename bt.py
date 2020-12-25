@@ -89,4 +89,4 @@ def xu_ly_file():
     f=open('D:/th.txt','r')
     print(f.read())
 
-xu_ly_file()
+
